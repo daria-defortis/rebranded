@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css?family=Bodoni Moda|Lora"); 
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+body {
+	font-family: "Lora", sans-serif;
+  	background-color:rgb(255, 244, 234);
+	font-size: 20px;	
+	margin: 50px;
+}
+
+p {
+	font-family: "Lora";
+}
+
+h1, h2, h3 {
+	font-family: "Bodoni Moda, serif";
+	font-weight: bold ;
+	color: rgb(160, 71, 71);
+}
+
+a {
+	text-decoration: none;
+}
+
